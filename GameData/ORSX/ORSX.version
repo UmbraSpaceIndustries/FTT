@@ -1,16 +1,16 @@
 {
-     "NAME":"USI Tools",
-	 "URL":"https://raw.githubusercontent.com/BobPalmer/UmbraSpaceIndustries/master/GameData/UmbraSpaceIndustries/USI.version"
-	 "DOWNLOAD":"https://github.com/BobPalmer/UmbraSpaceIndustries/releases"
+     "NAME":"ORSX",
+	 "URL":"https://raw.githubusercontent.com/BobPalmer/ORSX/master/GameData/ORSX/ORSX.version"
+	 "DOWNLOAD":"https://github.com/BobPalmer/ORSX/releases"
      "GITHUB":{
          "USERNAME":"BobPalmer",
-         "REPOSITORY":"UmbraSpaceIndustries",
+         "REPOSITORY":"ORSX",
          "ALLOW_PRE_RELEASE":false,
      },
      "VERSION":{
          "MAJOR":0,
          "MINOR":1,
-         "PATCH":2,
+         "PATCH":0,
          "BUILD":0
      },
      "KSP_VERSION":{
