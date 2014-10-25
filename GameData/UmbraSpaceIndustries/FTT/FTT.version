@@ -1,16 +1,16 @@
 {
-     "NAME":"USI Tools",
-	 "URL":"https://raw.githubusercontent.com/BobPalmer/UmbraSpaceIndustries/master/GameData/UmbraSpaceIndustries/USI.version"
-	 "DOWNLOAD":"https://github.com/BobPalmer/UmbraSpaceIndustries/releases"
+     "NAME":"Freight Transport Tech",
+	 "URL":"https://raw.githubusercontent.com/BobPalmer/FTT/master/GameData/UmbraSpaceIndustries/FTT/FTT.version"
+	 "DOWNLOAD":"https://github.com/BobPalmer/FTT/releases"
      "GITHUB":{
          "USERNAME":"BobPalmer",
-         "REPOSITORY":"UmbraSpaceIndustries",
+         "REPOSITORY":"FTT",
          "ALLOW_PRE_RELEASE":false,
      },
      "VERSION":{
          "MAJOR":0,
          "MINOR":2,
-         "PATCH":3,
+         "PATCH":4,
          "BUILD":0
      },
      "KSP_VERSION":{
