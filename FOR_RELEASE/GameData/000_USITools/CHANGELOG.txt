@@ -1,4 +1,4 @@
-0.5.5 - 2016.01.15
+0.5.5 - 2016.01.18
 ------------------
 Inflatable fuel tank module
 Tweaks to the pulse engine module
