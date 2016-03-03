@@ -1,3 +1,7 @@
+0.4.5 - 2016.03.02
+------------------
+Dependency Updates
+
 0.4.4 - 2016.01.18
 ------------------
 Interim patch to fix some node/cost issues and update dependencies
