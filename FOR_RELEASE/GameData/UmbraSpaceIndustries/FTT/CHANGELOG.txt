@@ -1,3 +1,27 @@
+0.5.2.1 - 2016.04.30
+--------------------
+KSP 1.1.2 compatibility
+
+0.5.2 - 2016.04.30
+------------------
+Dependency Updates
+
+0.5.1 - 2016.04.16
+------------------
+Compatibility Update
+
+0.5.0 - 2016.03.29
+--------------
+Interim 1.1 Compatibility
+
+0.4.5 - 2016.03.02
+------------------
+Dependency Updates
+
+0.4.4 - 2016.01.18
+------------------
+Interim patch to fix some node/cost issues and update dependencies
+
 0.4.3 - 2015.11.16
 ------------------
 Fixed issues with ducted fan engines not working properly

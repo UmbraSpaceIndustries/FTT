@@ -1,3 +1,29 @@
+0.5.1.1 - 2016.04.30
+--------------------
+KSP 1.1.2 compatibility
+
+0.5.1 - 2016.04.30
+------------------
+KSP 1.1.1 compatibility
+
+0.5.0 - 2016.03.29
+------------------
+Compatibility with KSP 1.1
+Lowered cost of Supplies, Mulch and Fertilizer
+
+0.4.9 - 2016.02.01
+------------------
+Added Hydrates as a resource and also to the resource map (represents regolith with captive water)
+Added Gypsum (an excellent raw material for fertilizer) as a resource and to the resource map
+ExoticMinerals and RareMetals can now be directly harvested
+
+0.4.8 - 2015.12.08
+------------------
+Added 'IntakeLqd' - an oceanic resource to help with oceanic-only parts.
+Modified Asteroid config to include 'Rock'
+Added 'Lead' as a resource (same stats as LeadBallast, but visible/tweakable)
+Adjusted density of 'Rock' to be more like rock, and less like cotton balls
+
 0.4.7 - 2015.11.14
 ------------------
 Merged MKS and MKS-L resources into CRP
