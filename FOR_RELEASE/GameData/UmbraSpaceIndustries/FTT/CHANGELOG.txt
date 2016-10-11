@@ -1,3 +1,16 @@
+0.6.0 - (KSP 1.2)
+------------------
+All spherical tanks and Kontainers in the FTT pack have been deprecated as these are duplicated by USI Core.
+3.75m Kontainers, when attached to a Starlifter Cargo Truss, can take advantage of cargo distribution.  This toggle, on the truss, will turn the kontainers physicsless, transferring their mass to the truss.  This will help with uneven loads and issues with high disparity in mass between connected parts.
+Tweaked the ducted fan engines slightly.  Heavier EC usage, lower thrust, and the inline DFE for the Honeybadger now works.
+All ducted fan engines now have appropriate blurred prop animations.
+Added new Jumbo and Atlas sized ducted fan engines (2x and 3x the power of the large ducted fan, respectively)
+Rebalanced all of the nuclear engines (they are both heavier, and significantly more powerful).
+New (interim) engine effects for the nuclear engines
+Ducted fan sound effects have been updated
+The command pod has been deprecated in favor of the new Orca command pod, featuring an 80% recycler for USI-LS as well as battery banks, and crew quarters.
+All starlifter parts are a bit less colorful (interim update)
+
 0.5.4 - (KSP 1.1.3)
 ------------------
 Dependency Updates
