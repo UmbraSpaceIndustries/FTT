@@ -1,3 +1,7 @@
+0.6.1 - 2016.05.14
+------------------
+Dependency Updates
+
 0.6.0 - (KSP 1.2)
 ------------------
 All spherical tanks and Kontainers in the FTT pack have been deprecated as these are duplicated by USI Core.
