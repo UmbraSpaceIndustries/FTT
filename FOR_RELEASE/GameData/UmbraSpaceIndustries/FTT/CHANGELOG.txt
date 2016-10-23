@@ -1,3 +1,9 @@
+0.6.2 - 2016.10.22
+------------------
+The Orca is now a multi-hop control point.
+The Orca also has its hatch as well as lights
+Better CTT configs (Thanks SirCharizard17!)
+
 0.6.1 - 2016.05.14
 ------------------
 Dependency Updates
