@@ -1,3 +1,7 @@
+0.6.4 - (KSP 1.2.2)
+-------------------
+Updates for KSP 1.2.2
+
 0.6.3 - (KSP 1.2.1)
 -------------------
 CTT and Category Updates (Thanks SirCharizard17!)
