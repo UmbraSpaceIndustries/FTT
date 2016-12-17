@@ -1,3 +1,10 @@
+0.6.3 - (KSP 1.2.1)
+-------------------
+CTT and Category Updates (Thanks SirCharizard17!)
+Fixed a bad part config (Thanks tarheel1999!)
+Changed Orca Internal to generic IVA (Thanks Li0n-0!)
+
+
 0.6.2 - 2016.10.22
 ------------------
 The Orca is now a multi-hop control point.
