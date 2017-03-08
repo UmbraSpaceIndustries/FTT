@@ -1,3 +1,38 @@
+0.6.7 - 2017.02.04
+------------------
+Added LiquidFuel to the Honeybadger cargo pods
+Added a reaction wheel and remote control point capabilities to the Orca
+Ducted fans are now significantly less EC efficient
+
+0.6.6 - 2017.01.15
+-------------------
+Dependency Updates
+
+0.6.5 - 2017.01.01
+-------------------
+Dependency Updates
+
+0.6.4 - (KSP 1.2.2)
+-------------------
+Updates for KSP 1.2.2
+
+0.6.3 - (KSP 1.2.1)
+-------------------
+CTT and Category Updates (Thanks SirCharizard17!)
+Fixed a bad part config (Thanks tarheel1999!)
+Changed Orca Internal to generic IVA (Thanks Li0n-0!)
+
+
+0.6.2 - 2016.10.22
+------------------
+The Orca is now a multi-hop control point.
+The Orca also has its hatch as well as lights
+Better CTT configs (Thanks SirCharizard17!)
+
+0.6.1 - 2016.05.14
+------------------
+Dependency Updates
+
 0.6.0 - (KSP 1.2)
 ------------------
 All spherical tanks and Kontainers in the FTT pack have been deprecated as these are duplicated by USI Core.
