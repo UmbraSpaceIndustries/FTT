@@ -1,0 +1,5 @@
+// Whitelist to enable FTT parts when ReStock is installed.
+// See: https://github.com/PorktoberRevolution/ReStocked/wiki/Asset-Blacklist-and-Whitelist
+
+Squad/Parts/Command/advancedSasModuleLarge/
+Squad/Parts/Utility/dockingPortSr/
