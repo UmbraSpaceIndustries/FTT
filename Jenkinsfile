@@ -75,24 +75,6 @@ pipeline {
         }
       }
     }
-    // Build
-    stage("Build") {
-      steps {
-        powershell '''
-          $DriveRoot = Split-Path -Path $env:WORKSPACE -Qualifier
-          $ReleasePath = Join-Path -Path $DriveRoot -ChildPath "usi-releases"
-          $JobReleasePath = Join-Path -Path $ReleasePath -ChildPath $env:JOB_CACHE
-          $ReferencePath = Join-Path -Path $JobReleasePath -ChildPath "000_USITools"
-
-          dotnet build --output FOR_RELEASE/GameData/UmbraSpaceIndustries/MKS --configuration $env:BUILD_CONFIG `
-            --verbosity detailed /p:ReferencePath="$ReferencePath" ./Source/KolonyTools/KolonyTools.csproj
-          dotnet build --output FOR_RELEASE/GameData/UmbraSpaceIndustries/WOLF --configuration $env:BUILD_CONFIG `
-            --verbosity detailed /p:ReferencePath="$ReferencePath" ./Source/WOLF/WOLFUI/WOLFUI.csproj
-          dotnet build --output FOR_RELEASE/GameData/UmbraSpaceIndustries/WOLF --configuration $env:BUILD_CONFIG `
-            --verbosity detailed /p:ReferencePath="$ReferencePath" ./Source/WOLF/WOLF/WOLF.csproj
-        '''
-      }
-    }
     // Update artifact cache
     stage("Cache artifacts") {
       steps {
