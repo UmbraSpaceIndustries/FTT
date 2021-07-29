@@ -1,9 +1,9 @@
 {
      "NAME":"Freight Transport Tech",
-	 "URL":"https://raw.githubusercontent.com/BobPalmer/FTT/master/FOR_RELEASE/GameData/UmbraSpaceIndustries/FTT/FTT.version",
-	 "DOWNLOAD":"https://github.com/BobPalmer/FTT/releases",
+	 "URL":"https://raw.githubusercontent.com/UmbraSpaceIndustries/FTT/master/FOR_RELEASE/GameData/UmbraSpaceIndustries/FTT/FTT.version",
+	 "DOWNLOAD":"https://github.com/UmbraSpaceIndustries/FTT/releases",
      "GITHUB":{
-         "USERNAME":"BobPalmer",
+         "USERNAME":"UmbraSpaceIndustries",
          "REPOSITORY":"FTT",
          "ALLOW_PRE_RELEASE":false
      },
